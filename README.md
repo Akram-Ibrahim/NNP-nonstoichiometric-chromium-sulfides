@@ -32,6 +32,7 @@ This repository contains the data and codes utilized in this paper **"Modeling C
 ## Configuration
 Modify the input parameters in the scripts to align with your system and simulation settings.
 
+
 ## Modeling Strain-Induced van der Waals Gaps
 The following visual illustrates the strain-induced vdW gaps (non-vdW to vdW phase transition) in CrS2 slabs.
 <p align="center">
