@@ -1,5 +1,5 @@
 # NNP-nonstoichiometric-chromium-sulfides
-This repository contains the data and codes utilized in this paper "Modeling Chemical Exfoliation of Non-van der Waals Chromium Sulfides by Machine Learning Interatomic Potentials and Monte Carlo Simulations". For further details, please refer to the published paper [here](https://pubs.acs.org/doi/abs/10.1021/acs.jpcc.3c06168).
+This repository contains the data and codes utilized in this paper **"Modeling Chemical Exfoliation of Non-van der Waals Chromium Sulfides by Machine Learning Interatomic Potentials and Monte Carlo Simulations"**. For further details, please refer to the published paper [here](https://pubs.acs.org/doi/abs/10.1021/acs.jpcc.3c06168).
 
 ## SA.py (Simulated Annealing)
 
